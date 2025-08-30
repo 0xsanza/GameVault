@@ -37,5 +37,4 @@ GameVault leverages **Soundness CLI** to manage proofs and verifications of in-g
 # Tutorial: Running GameVault
 
 ## 1. Clone Repo or u can download 
-index.html
-Fork or clone the [Soundness testnet-vapps repo](https://github.com/SoundnessLabs/testnet-vapps).
+`index.html` & open on you browser
